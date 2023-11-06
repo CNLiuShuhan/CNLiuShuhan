@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CNLiuShuhan.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning English.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learn to program.
 - 📫 How to reach me xia0mei@hotmail.com.
