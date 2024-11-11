@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CNLiuShuhan.
-- 👀 I’m interested in programming.
+- 👋 Hi, I’m Liu Shuhan,I'm a Chinese.
+- 👀 I’m interested in programming Python.
 - 🌱 I’m currently learning English.
-- 💞️ 
-- 📫 How to reach me xia0mei@hotmail.com.
-- I'm a student of primary school in Beijing of China.
+- 💞️ My friend is Gao Chuqi.
+- 📫 xia0mei@hotmail.com.
+- I'm a student of Beijing Huiwei Middle School South Campus in China.
 - 你好！
